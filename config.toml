@@ -1,0 +1,71 @@
+# MAIN base
+baseURL = "https://krfoodsapc.com/"
+languageCode = "en-us"
+title = "KR FOODS APC | Home"
+theme = ["apsho"]
+enableInlineShortcodes = true
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+
+[[menu.main]]
+    name = "Services"
+    url = "#feature"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+[[menu.main]]
+    name = "Gallery"
+    url = "#screenshots"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Blog / Latest Article"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+    
+# Footer Address
+[params.address]
+address = "K R Food Mini Food Park, Bhirawati, Haryana, India"
+address_link = "https://maps.app.goo.gl/yeEbmqFhCuaaTU738"
+email = "krfoodsapc@gmail.com"
+phone = "+91 981 054 3877"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/pg/staticmania"
+twitter = "https://twitter.com/static_mania"
+github = "https://github.com/StaticMania"
+
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "UA-175025671-2"
+
+# Footer
+footerTitle = "Invest in our mini park and get 100% return in 5 years"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://foetron.com/\" target=\"_blank\">KR FOODS APC </a> {year}"
+
+#contact
+email = "info@krfoodsapc.com"

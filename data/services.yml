@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title:  KR FOODS APC's Mini Food Park benefits Everyone 
+services:
+  - icon: ti-user
+    title: Farmers
+    description:  Mini Food Park will increase farmer's income and will create employment opportunities
+
+  - icon: ti-bar-chart
+    title: Food Producers
+    description: KR Foods Mini Food Park will enhance efficiency of Food Producers by bringing together the whole supply chain together in one place.
+
+  - icon: ti-package
+    title: Food processors
+    description: With Mini Food Park services, Food Processors can reduce their losses by improving their infrastructure

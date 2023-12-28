@@ -1,0 +1,19 @@
+---
+enable: true
+title: Frequently asked questions
+description: We get these questions a lot, and we think it would help quell your queries too
+faqItem:
+  - question: Where is the project situated?
+    answer: The project site is 25 Km from Gurgaon & only 35 Km from IGI Airport New Delhi. Haryana Govt. is developing an Industrial Model Township (IMT) which is only 10 KM from our project site. The proposed site is at a very strategic location with already approved electric connection and two boring wells with ample ground water. The Govt. of Haryana has issued CLU (Change of Land Use) for Agro based Food Processing Units.
+    dataTarget: One
+    show: show
+
+  - question: Is the payment plan flexible with immediate possesion?
+    answer:  Yes, the payment plan is flexible and Possesion is immediate.
+    dataTarget: Two
+    show: 
+    
+  - question: How much it costs to get started?
+    answer:   Prices are on quote basis only. Call at +91 997 1633300 or email at info@krfoods.in
+    dataTarget: Three
+    show: 

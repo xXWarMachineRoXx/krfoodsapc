@@ -1,0 +1,13 @@
+---
+enable: true
+title: We have already started building it, and we're glad to show it!
+description: Plots are being sold on long lease pattern of 33 years with an option to convert to Free Hold after 10 years without paying any extra amount.
+images:
+  - url: images/screenshots/site-images/1.webp
+  - url: images/screenshots/site-images/2.webp
+  - url: images/screenshots/site-images/3.webp
+  - url: images/screenshots/site-images/4.webp
+  - url: images/screenshots/site-images/5.webp
+  - url: images/screenshots/site-images/6.jpg
+
+  # - url: images/screenshots/site-images/slider3.png

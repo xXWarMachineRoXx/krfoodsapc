@@ -1,0 +1,18 @@
+# Ignore generated files
+/public/
+/resources/
+
+# Ignore Hugo cache
+/resources/_gen/
+
+# Ignore build artifacts
+/public/
+/resources/
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

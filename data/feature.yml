@@ -1,0 +1,43 @@
+---
+enable: true
+title: Our Objective
+description: The Mini Food Park Scheme aims to create modern facilities for the food processing industry, covering the entire value chain from the farm to the market. 
+description2: The scheme will benefit farmers, producers, and processors by increasing their income, reducing their losses, improving their infrastructure, and enhancing their efficiency.
+image1: images/feature/feature-illustration-four.svg
+buttonText: Try It Free
+
+
+Title2nd: Providing you with best in class facilities.
+description2nd: KR Foods is your gateway to agricultural excellence. Our mini food park is dedicated to delivering top-tier facilities that redefine agro-business. Experience the perfect blend of nature and technology with:.
+img_enable: false
+image2: images/feature/feature-illustration-three.svg
+checkItem:
+  - text: Warehousing.
+  - text: Multipurpose Cold Storage.
+  - text: Deep Freezer.
+  - text: IQF with processing line.
+  - text: Steam Generation Boiler.
+  - text: Quality Control and Food Testing Lab.
+  - text: Material Handling Equipment.
+
+
+
+enable_3rd: false
+Title3rd: Product start analytics with real problems.
+description3rd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+image1_3rd: images/feature/feature-illustration-four.svg
+image2_3rd: images/feature/feature-illustration-two.svg
+checkItem_3rd:
+  - text: Next to the hosting accouant you want to use.
+  - text: Select or enter the domain name you want to use.
+  - text: After you purchase a hosting plan.
+
+enable_4th: false
+Title4th: Steam boiling.
+description4th: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+image1_4th: images/feature/feature-illustration-three.svg
+image2_4th: images/feature/feature-illustration-three.svg
+checkItem_4th:
+  - text: Next to the hosting accouant you want to use.
+  - text: Select or enter the domain name you want to use.
+  - text: After you purchase a hosting plan.
