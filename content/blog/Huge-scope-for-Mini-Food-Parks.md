@@ -1,7 +1,7 @@
 ---
 title: "Huge scope for Mini Food Parks"
 date: 2021-08-17T15:11:00+05:30
-featureImage: images/blog/mini-food-park-potential.png
+featureImage: images/blog/growth-potential-mini-food-parks.png
 author: PIB Delhi
 authorThumb: images/client/indian-emblem.png
 ---

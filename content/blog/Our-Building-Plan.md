@@ -1,7 +1,7 @@
 ---
 title: "Our Motto and Plan"
 date: 2020-09-01T12:57:56+06:00
-featureImage: images/blog/blog-post-5.jpg
+featureImage: images/blog/motto-and-plan.png
 author: Swati Sharma
 authorThumb: images/client/swati-sharma.png
 ---

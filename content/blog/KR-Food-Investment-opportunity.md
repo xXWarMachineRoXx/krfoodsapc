@@ -1,7 +1,7 @@
 ---
 title: "KR Food's Mini Park | Best Investment Opportunity in 2024"
 date: 2023-06-12T20:18:07+05:30
-featureImage: images/blog/mini-food-park.png
+featureImage: images/blog/invest-kr-foods-mini-park.png
 author: India InvestmentGrid
 authorThumb: images/client/gov-india-msme.png
 ---
