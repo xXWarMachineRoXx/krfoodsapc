@@ -66,6 +66,6 @@ googleAnalytics = "UA-175025671-2"
 footerTitle = "Invest in our mini food park and get the best ROI"
 copyright1 = "All right reserved"
 copyright2 = "Copyright ©  <a href=\"https://foetron.com/\" target=\"_blank\">KR FOODS APC </a> {year}"
-
+local_host_key = "7f0cdd702e35419587e960b2a0ad1af9"
 #contact
 email = "info@krfoodsapc.com"
